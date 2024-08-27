@@ -86,7 +86,7 @@ Op("SelectIsland","Sus Island")
 Op("GetQuestMonBoss",true)
 Op("GetQuestBossFun",true)
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/noggik/heje/main/Ui%20library%20Source.lua"))()"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/noggik/heje/main/hee.lua"))()"))()
 
 local Window = Library:CreateWindow({
 	Credit = "pindummy"
