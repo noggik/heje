@@ -1282,7 +1282,7 @@ function Library:CreateWindow(a)
 			tweensize(Discord, UDim2.new(0, 43, 0, 43))
 			Tw:Create(Discord, Tf2, {Position = UDim2.new(0.867, 0,0.057, 0)}):Play()
 		end)
-		setclipboard("https://discord.gg/D9YT7p2e5v")
+		setclipboard("https://discord.com/invite/6AU7QWUm")
 	end)
 
 	local Tab = Instance.new("Frame")
